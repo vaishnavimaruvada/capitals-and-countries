@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: dodgerblue;
+}
+.card {
+  height: 300px;
+  width: 400px;
+  background-color: white;
+  border-radius: 10px;
+  border-width: 0px;
+}
